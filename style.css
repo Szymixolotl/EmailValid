@@ -1,0 +1,18 @@
+.kont{
+    width: 100px;
+    height: 100px;    
+}
+.poprawnosc{
+    width: 100px;
+    height: 100px;
+}
+.git{
+    background-color: green;
+    border: 3px solid black;
+    border-radius: 25%;
+}
+.zle{
+    background-color: red;
+    border: 3px solid black;
+    border-radius: 25%;
+}
